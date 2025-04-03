@@ -1,4 +1,4 @@
-# ecom-data-pipeline: A Data Engineering Project for E-commerce Data
+# ecom-data-pipeline: Data Engineering Project for E-commerce Data
 
 ## Overview
 
